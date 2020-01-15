@@ -12,7 +12,7 @@
         "button.foreground": "#ffffff",
         "editor.background": "#212121",
         "editor.foreground": "#ffffff",
-        "editorGroup.background": "#212121",
+        "editorGroup.emptyBackground": "#212121",
         "editorGroup.border": "#1db954",
         "editorGroup.dropBackground": "#212121",
         "list.activeSelectionBackground": "#535353",
