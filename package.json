@@ -1,0 +1,21 @@
+{
+    "name": "sappho",
+    "displayName": "Sappho",
+    "description": "A vsc theme for women who love women, or people who love purple.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sappho",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sappho-color-theme.json"
+            }
+        ]
+    }
+}
