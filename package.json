@@ -2,7 +2,7 @@
     "name": "sappho",
     "displayName": "Sappho",
     "description": "A vsc theme for women who love women, or people who love purple.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.41.0"
     },
