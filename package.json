@@ -5,6 +5,15 @@
     "repository": "https://github.com/laurenclark/sappho_theme",
     "icon": "image/logo.png",
     "publisher": "laurenclark",
+    "keywords": [
+        "Sappho",
+        "Greek",
+        "Purple",
+        "Lesbian",
+        "Pride",
+        "Gay",
+        "Dark"
+    ],
     "version": "1.0.1",
     "engines": {
         "vscode": "^1.41.0"
