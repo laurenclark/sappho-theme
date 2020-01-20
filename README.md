@@ -20,6 +20,5 @@ and not optimised for front-end or JavaScript stacks, so here is what I came up 
 
 3. Click Install to install it
 
-4. Hit `cmd+p` (`ctrl+p` on windows) and type `color theme`
+4. Hit `cmd+k` and then `cmd+t` (`ctrl+k` and `ctrl+t` on windows) and select `Sappho`
 
-5. Select `Sappho` and hit enter
