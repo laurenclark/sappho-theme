@@ -1,13 +1,13 @@
-# README
-## This is the README for your extension "sappho"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Installation
+1. Open Extensions sidebar panel in VS Code. View → Extensions
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+2. Search for `Sappho`
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+3. Click Install to install it
 
-**Enjoy!**
+4. Hit `cmd+p` (`ctrl+p` on windows) and type `color theme`
+
+5. Select `Sappho` and hit enter
+
+![Screen Shot](../sappho/ss1.png)
+![Screen Shot](../sappho/ss2.png)

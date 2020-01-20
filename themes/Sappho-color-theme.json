@@ -61,7 +61,7 @@
         "sideBarSectionHeader.background": "#130d1c",
         "sideBarSectionHeader.foreground": "#ffffff",
         "sideBarTitle.foreground": "#ffffff",
-        "statusBar.background": "#7a1e92",
+        "statusBar.background": "#451152",
         "statusBar.border": "#140116",
         "statusBar.debuggingBackground": "#390023",
         "statusBar.debuggingForeground": "#ffffff",
@@ -1221,6 +1221,18 @@
             "settings": {
                 "foreground": "#4bf39e",
                 "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "variable.other.object.js",
+            "settings": {
+                "foreground": "#f773c8"
+            }
+        },
+        {
+            "scope": "text.html.vue-html",
+            "settings": {
+                "foreground": "#FFFFFF"
             }
         }
     ]
