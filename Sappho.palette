@@ -1,0 +1,169 @@
+{
+  "createdAt" : "2020-01-20 15:07:28",
+  "name" : "Sappho",
+  "index" : 1,
+  "dock" : true,
+  "id" : "BC3DA970-0349-9153-3657-736D903A05AE",
+  "cloud" : true,
+  "sip" : {
+    "build" : "223",
+    "version" : "2.2.3"
+  },
+  "like" : false,
+  "originalName" : "Palette",
+  "lock" : false,
+  "readOnly" : false,
+  "colors" : [
+    {
+      "createdAt" : "2020-01-20 13:12:12",
+      "green" : 0.14504000544548035,
+      "originalName" : "Nero",
+      "blue" : 0.1491599977016449,
+      "id" : "66302204-4C5A-A070-0792-2BCA9F3E2614",
+      "red" : 0.14507000148296356,
+      "alpha" : 1,
+      "name" : "Nero"
+    },
+    {
+      "alpha" : 1,
+      "name" : "Vulcan",
+      "blue" : 0.11069999635219574,
+      "green" : 0.049490001052618027,
+      "originalName" : "Vulcan",
+      "red" : 0.075690001249313354,
+      "createdAt" : "2020-01-20 15:13:38",
+      "id" : "262D6700-009D-D008-8436-6E8716491A67"
+    },
+    {
+      "green" : 0.44455999135971069,
+      "id" : "40D5872C-C66A-A287-75CB-BD2C8C6A0386",
+      "name" : "Waikawa Gray",
+      "createdAt" : "2020-01-20 15:11:56",
+      "originalName" : "Waikawa Gray",
+      "alpha" : 1,
+      "blue" : 0.64961999654769897,
+      "red" : 0.38256999850273132
+    },
+    {
+      "originalName" : "Toledo",
+      "id" : "523C5794-404A-A549-9894-44EED3AA84CF",
+      "createdAt" : "2020-01-20 15:13:30",
+      "green" : 0.0017399999778717756,
+      "blue" : 0.14055000245571136,
+      "red" : 0.22718000411987305,
+      "alpha" : 1,
+      "name" : "Toledo"
+    },
+    {
+      "blue" : 0.13826000690460205,
+      "green" : 0,
+      "alpha" : 1,
+      "createdAt" : "2020-01-20 13:13:00",
+      "originalName" : "Toledo",
+      "id" : "E197C6A6-6C64-4147-7BCD-D2F59227C436",
+      "name" : "Toledo",
+      "red" : 0.22244000434875488
+    },
+    {
+      "alpha" : 1,
+      "name" : "Seance",
+      "originalName" : "Seance",
+      "id" : "2917A4B0-07B4-4ECF-F4E1-10C3EAA16F97",
+      "green" : 0.11941999942064285,
+      "red" : 0.47716999053955078,
+      "blue" : 0.57291001081466675,
+      "createdAt" : "2020-01-20 13:16:05"
+    },
+    {
+      "blue" : 0.58092999458312988,
+      "originalName" : "Seance",
+      "red" : 0.48425000905990601,
+      "alpha" : 1,
+      "green" : 0.080629996955394745,
+      "id" : "5A9EB1A2-250C-C1A6-639E-E522F08455DB",
+      "createdAt" : "2020-01-20 15:26:37",
+      "name" : "Seance"
+    },
+    {
+      "alpha" : 1,
+      "red" : 0.78373998403549194,
+      "id" : "CED25705-5EAA-A9F0-04F6-6019E3E35278",
+      "green" : 0.42800000309944153,
+      "blue" : 1,
+      "createdAt" : "2020-01-20 15:12:20",
+      "originalName" : "Heliotrope",
+      "name" : "Heliotrope"
+    },
+    {
+      "blue" : 0.98891997337341309,
+      "alpha" : 1,
+      "id" : "D207E148-8813-3EAD-D6CA-AEBBF1BA10F4",
+      "name" : "Bright Lavender",
+      "originalName" : "Bright Lavender",
+      "red" : 0.74233001470565796,
+      "createdAt" : "2020-01-20 15:09:14",
+      "green" : 0.56312000751495361
+    },
+    {
+      "originalName" : "Neon Pink",
+      "green" : 0.45131000876426697,
+      "blue" : 0.78598999977111816,
+      "createdAt" : "2020-01-20 15:37:51",
+      "name" : "Neon Pink",
+      "red" : 0.97048002481460571,
+      "id" : "1AC2724F-F11D-D5F7-7A45-5A42C179D00A",
+      "alpha" : 1
+    },
+    {
+      "red" : 0.2926500141620636,
+      "alpha" : 1,
+      "id" : "09202393-3E30-0E88-8A8D-DE462BD26480",
+      "createdAt" : "2020-01-20 15:11:29",
+      "originalName" : "Shamrock",
+      "blue" : 0.61962997913360596,
+      "green" : 0.95440000295639038,
+      "name" : "Shamrock"
+    },
+    {
+      "blue" : 0.49081999063491821,
+      "alpha" : 1,
+      "red" : 0.9132000207901001,
+      "green" : 0.95499998331069946,
+      "originalName" : "Manz",
+      "id" : "EBA037A9-9228-8FBD-D5F3-35D839B1B09E",
+      "createdAt" : "2020-01-20 15:13:01",
+      "name" : "Manz"
+    },
+    {
+      "name" : "Fog",
+      "originalName" : "Fog",
+      "red" : 0.84547001123428345,
+      "id" : "EA29AECC-CD09-99B1-1434-472D8A976EF9",
+      "createdAt" : "2020-01-20 15:32:41",
+      "green" : 0.78228002786636353,
+      "blue" : 0.93532997369766235,
+      "alpha" : 1
+    },
+    {
+      "red" : 0.99992001056671143,
+      "createdAt" : "2020-01-20 15:12:40",
+      "originalName" : "White",
+      "alpha" : 1,
+      "blue" : 0.99988001585006714,
+      "name" : "White",
+      "id" : "57D805CC-CCCC-C61B-B270-09BE8E141F1B",
+      "green" : 1
+    },
+    {
+      "createdAt" : "2020-01-20 15:11:47",
+      "id" : "36127092-2760-0D50-0A95-5120BAE8BA91",
+      "name" : "Pastel Red",
+      "blue" : 0.38769999146461487,
+      "red" : 0.96657997369766235,
+      "alpha" : 1,
+      "green" : 0.41808998584747314,
+      "originalName" : "Pastel Red"
+    }
+  ],
+  "updatedAt" : "2020-01-20 15:37:55"
+}
