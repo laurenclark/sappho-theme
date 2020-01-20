@@ -10,3 +10,9 @@
 -   Give contrast to export/imports in JS and Scss
 -   Correct wrong keyboard shortcuts in readme
 -   Tweak some colours which were poor without some extensions running
+
+
+## [V.1.1.1]
+
+- Brighten comments 
+- Give entity name in js documentation contrast

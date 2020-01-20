@@ -633,7 +633,7 @@
                 "wildcard.comment"
             ],
             "settings": {
-                "foreground": "#82668aa5",
+                "foreground": "#e5baf17e",
                 "fontStyle": "italic"
             }
         },
@@ -1075,7 +1075,7 @@
                 "meta.variable.assignment.destructured.object.coffee variable variable"
             ],
             "settings": {
-                "fontStyle": "normal",
+                "fontStyle": "",
                 "foreground": "#4af2a1"
             }
         },
@@ -1135,7 +1135,7 @@
             "name": "Powershell constants mistakenly scoped to `support`, rather than `constant` (edge)",
             "scope": ["support.constant"],
             "settings": {
-                "fontStyle": "normal",
+                "fontStyle": "",
                 "foreground": "#BD93F9"
             }
         },
@@ -1299,6 +1299,31 @@
             "scope": "keyword.control.import.js",
             "settings": {
                 "foreground": "#e9f47d"
+            }
+        },
+        {
+            "scope": [
+                "JSXEndTagStart",
+                "JSXEndTagEnd",
+                "punctuation.definition.tag.jsx",
+                "meta.tag.metadata.style.end.html",
+                "text.html.derivative",
+                "meta.tag.metadata.script.end.html"
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
+        {
+            "scope": "entity.name.type.instance.jsdoc",
+            "settings": {
+                "foreground": "#c86dff"
+            }
+        },
+        {
+            "scope": "meta.brace.curly.jsdoc",
+            "settings": {
+                "foreground": "#FFFFFF"
             }
         }
     ]
