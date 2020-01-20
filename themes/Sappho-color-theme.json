@@ -3,20 +3,25 @@
     "name": "Sappho",
     "type": "dark",
     "colors": {
+        // The leftmost bar
         "activityBar.background": "#390023",
         "activityBar.dropBackground": "#130d1c",
         "activityBar.foreground": "#e8bbff",
         "activityBarBadge.background": "#5dffab",
         "activityBarBadge.foreground": "#37146b",
+        // Buttons
         "button.background": "#390023",
         "button.foreground": "#ffffff",
+        // Main editor colors
         "editor.background": "#130d1c",
         "editor.foreground": "#ffffff",
         "editorGroup.emptyBackground": "#390023",
         "editorGroup.dropBackground": "#1d0414",
         "editorGroupHeader.noTabsBackground": "#130d1c",
         "editorGroupHeader.tabsBackground": "#390023",
+        // The input focus
         "focusBorder": "#7a1e92",
+        // Text inputs
         "input.background": "#390023",
         "input.border": "#907591",
         "input.foreground": "#ffffff",
@@ -44,8 +49,8 @@
         "notificationToast.border": "#7a1e92",
         "notifications.foreground": "#f8caff",
         "notifications.background": "#130d1c",
-        "notifications.border": "#ffc600",
-        "notificationLink.foreground": "#ffc600",
+        "notifications.border": "#e9f47d",
+        "notificationLink.foreground": "#e9f47d",
         "minimap.findMatchHighlight": "#f8caff",
         "minimap.selectionHighlight": "#fae9fc",
         "settings.textInputBackground": "#390023",
