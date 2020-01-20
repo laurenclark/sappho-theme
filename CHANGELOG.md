@@ -11,8 +11,7 @@
 -   Correct wrong keyboard shortcuts in readme
 -   Tweak some colours which were poor without some extensions running
 
+## [V.1.2.0]
 
-## [V.1.1.1]
-
-- Brighten comments 
-- Give entity name in js documentation contrast
+-   Brighten comments
+-   Give entity name in js documentation contrast
