@@ -52,12 +52,13 @@
         "notifications.foreground": "#f8caff",
         "notifications.background": "#130d1c",
         "notifications.border": "#e9f47d",
-        // Minimap on right - the dropdown only appears if its wrapping
+        // Minimap on right - the dropdown only appears if its scrolling
         "notificationLink.foreground": "#e9f47d",
         "minimap.findMatchHighlight": "#f8caff",
         "minimap.selectionHighlight": "#fae9fc",
         "settings.textInputBackground": "#390023",
         "settings.textInputForeground": "#cccccc",
+        // The frickin sidebar, yo
         "sideBar.background": "#0b0112",
         "sideBar.border": "#130d1c",
         "sideBar.foreground": "#b3b3b3",
@@ -1364,7 +1365,9 @@
             "name": "Classes styled separately",
             "scope": [
                 "meta.attribute.class.html",
-                "entity.other.attribute-name.class.css"
+                "entity.other.attribute-name.class.css",
+                "source.css.scss",
+                "entity.other.attribute-name.class.scss"
             ],
             "settings": {
                 "foreground": "#f773c8"
