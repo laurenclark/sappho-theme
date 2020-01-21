@@ -630,7 +630,10 @@
                 "comment",
                 "punctuation.definition.comment",
                 "unused.comment",
-                "wildcard.comment"
+                "wildcard.comment",
+                "punctuation.definition.comment.html",
+                "comment.block.html",
+                "text.html.derivative"
             ],
             "settings": {
                 "foreground": "#7a5ea7"
