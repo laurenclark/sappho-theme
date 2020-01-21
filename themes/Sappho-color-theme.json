@@ -709,7 +709,10 @@
         },
         {
             "name": "HTML/CSS attribute names",
-            "scope": ["meta.tag.metadata.meta.void.html"],
+            "scope": [
+                "meta.tag.metadata.meta.void.html",
+                "meta.attribute.content.html"
+            ],
             "settings": {
                 "foreground": "#d8c7ef"
             }
@@ -1230,10 +1233,7 @@
         },
         {
             "name": "Quotes in HTML",
-            "scope": [
-                "meta.attribute.content.html",
-                "string.quoted.double.html"
-            ],
+            "scope": ["string.quoted.double.html"],
             "settings": {
                 "foreground": "#4bf39e",
                 "fontStyle": "italic"
@@ -1362,7 +1362,10 @@
         },
         {
             "name": "Classes styled separately",
-            "scope": "meta.attribute.class.html",
+            "scope": [
+                "meta.attribute.class.html",
+                "entity.other.attribute-name.class.css"
+            ],
             "settings": {
                 "foreground": "#f773c8"
             }
