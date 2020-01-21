@@ -704,10 +704,9 @@
         },
         {
             "name": "HTML/CSS attribute names",
-            "scope": ["entity.other.attribute-name"],
+            "scope": ["meta.tag.metadata.meta.void.html"],
             "settings": {
-                "foreground": "#ff95e1"
-                // "fontStyle": "italic"
+                "foreground": "#d8c7ef"
             }
         },
         {
@@ -1214,12 +1213,6 @@
             }
         },
         {
-            "scope": "entity.other.attribute-name",
-            "settings": {
-                "foreground": "#f773c8"
-            }
-        },
-        {
             "scope": "variable.other.readwrite.js",
             "settings": {
                 "foreground": "#d8c7ef"
@@ -1336,6 +1329,18 @@
             "scope": "meta.brace.curly.jsdoc",
             "settings": {
                 "foreground": "#FFFFFF"
+            }
+        },
+        {
+            "scope": ["meta.attribute.id.html"],
+            "settings": {
+                "foreground": "#f66b63"
+            }
+        },
+        {
+            "scope": "meta.attribute.class.html",
+            "settings": {
+                "foreground": "#f773c8"
             }
         }
     ]
