@@ -633,8 +633,7 @@
                 "wildcard.comment"
             ],
             "settings": {
-                "foreground": "#e5baf17e",
-                "fontStyle": "italic"
+                "foreground": "#7a5ea7"
             }
         },
         {
