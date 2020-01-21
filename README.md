@@ -3,8 +3,6 @@
 [![Version](https://img.shields.io/visual-studio-marketplace/v/laurenclark.sappho)](https://marketplace.visualstudio.com/items/laurenclark.sappho/changelog)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/laurenclark.sappho)](https://marketplace.visualstudio.com/items?itemName=laurenclark.sappho)
 
-![logo](https://i.imgur.com/33oB5Jj.png)
-
 A dark theme based on Greek Poet Sappho of Lesbos. 
 For women who love women (& code) and people who love purple!
 
