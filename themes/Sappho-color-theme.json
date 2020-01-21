@@ -33,6 +33,7 @@
         "inputValidation.infoBorder": "#de5bf2",
         "inputValidation.warningBackground": "#6a1146",
         "inputValidation.warningBorder": "#d85335",
+        // File explorer list ?
         "list.activeSelectionBackground": "#535353",
         "list.activeSelectionForeground": "#ffffff",
         "list.dropBackground": "#130d1c",
@@ -44,12 +45,14 @@
         "list.inactiveFocusBackground": "#130d1c",
         "list.inactiveSelectionBackground": "#130d1c",
         "list.inactiveSelectionForeground": "#ffffff",
+        // Notifications
         "notificationCenterHeader.foreground": "#aaa",
         "notificationCenterHeader.background": "#130d1c",
         "notificationToast.border": "#7a1e92",
         "notifications.foreground": "#f8caff",
         "notifications.background": "#130d1c",
         "notifications.border": "#e9f47d",
+        // Minimap on right - the dropdown only appears if its wrapping
         "notificationLink.foreground": "#e9f47d",
         "minimap.findMatchHighlight": "#f8caff",
         "minimap.selectionHighlight": "#fae9fc",
@@ -71,6 +74,7 @@
         "statusBar.noFolderForeground": "#b3b3b3",
         "statusBarItem.activeBackground": "#535353",
         "statusBarItem.hoverBackground": "#390023",
+        // Top tabs
         "tab.activeBackground": "#130d1c",
         "tab.activeForeground": "#ffffff",
         "tab.border": "#170617",
@@ -78,6 +82,7 @@
         "tab.inactiveBackground": "#390023",
         "titleBar.activeBackground": "#130d1c",
         "titleBar.inactiveBackground": "#390023",
+        // The editor top pane
         "editorPane.background": "#130d1c"
         //"activityBar.activeBorder": "#b3b3b3",
         //"activityBar.inactiveForeground": "#b3b3b366",
@@ -1219,6 +1224,7 @@
             }
         },
         {
+            "name": "Quotes in HTML",
             "scope": [
                 "meta.attribute.content.html",
                 "string.quoted.double.html"
@@ -1229,6 +1235,7 @@
             }
         },
         {
+            "name": "Random Vars",
             "scope": "variable.other.object.js",
             "settings": {
                 "foreground": "#f773c8"
@@ -1241,6 +1248,7 @@
             }
         },
         {
+            "name": "ID's and Imports for css/sass",
             "scope": [
                 "entity.other.attribute-name.id.css",
                 "keyword.control.at-rule.import.scss"
@@ -1250,6 +1258,7 @@
             }
         },
         {
+            "name": "Properties and Vars in Scss",
             "scope": [
                 "meta.property-name.scss",
                 "meta.property-list.scss",
@@ -1260,6 +1269,7 @@
             }
         },
         {
+            "name": "Curly Braces in Scss",
             "scope": [
                 "punctuation.section.property-list.begin.bracket.curly.scss",
                 "punctuation.section.property-list.end.bracket.curly.scss"
@@ -1269,18 +1279,21 @@
             }
         },
         {
+            "name": "Operators in Scss",
             "scope": "entity.name.tag.reference.scss",
             "settings": {
                 "foreground": "#e9f47d"
             }
         },
         {
+            "name": "Keys for Obj Lits and JSON",
             "scope": "meta.object-literal.key.js",
             "settings": {
                 "foreground": "#c86dff"
             }
         },
         {
+            "name": "Specific Vue Styles",
             "scope": [
                 "meta.object.member.js",
                 "source.vue",
@@ -1291,6 +1304,7 @@
             }
         },
         {
+            "name": "Export Color",
             "scope": [
                 "keyword.control.export.js",
                 "keyword.control.module.js",
@@ -1307,6 +1321,7 @@
             }
         },
         {
+            "name": "JSX Tags",
             "scope": [
                 "JSXEndTagStart",
                 "JSXEndTagEnd",
@@ -1320,24 +1335,28 @@
             }
         },
         {
+            "name": "JS Doc highlights params etc",
             "scope": "entity.name.type.instance.jsdoc",
             "settings": {
                 "foreground": "#c86dff"
             }
         },
         {
+            "name": "Curly braces in JS",
             "scope": "meta.brace.curly.jsdoc",
             "settings": {
                 "foreground": "#FFFFFF"
             }
         },
         {
+            "name": "IDs styled separately",
             "scope": ["meta.attribute.id.html"],
             "settings": {
                 "foreground": "#f66b63"
             }
         },
         {
+            "name": "Classes styled separately",
             "scope": "meta.attribute.class.html",
             "settings": {
                 "foreground": "#f773c8"
