@@ -806,7 +806,12 @@
         },
         {
             "name": "Built-in functions / properties",
-            "scope": ["support.function", "support.type.property-name"],
+            "scope": [
+                "support.function",
+                "support.type.property-name",
+                "string.unquoted.js",
+                "constant.other.object.key.js"
+            ],
             "settings": {
                 "fontStyle": "",
                 "foreground": "#d7c8ed"
