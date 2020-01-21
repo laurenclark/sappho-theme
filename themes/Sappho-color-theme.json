@@ -680,7 +680,17 @@
             "scope": ["entity.name.tag"],
             "settings": {
                 "foreground": "#c773ff"
-                // "fontStyle": "bold"
+            }
+        },
+        {
+            "name": "JSX tags",
+            "scope": [
+                "punctuation.definition.tag.jsx",
+                "support.class.component.open.jsx",
+                "support.class.component.close.jsx"
+            ],
+            "settings": {
+                "foreground": "#f773c8"
             }
         },
         {
@@ -1230,7 +1240,7 @@
             }
         },
         {
-            "scope": "text.html.vue-html",
+            "scope": ["text.html.vue-html", "JSXNested"],
             "settings": {
                 "foreground": "#FFFFFF"
             }
