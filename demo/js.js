@@ -1,3 +1,14 @@
+const arrayOfThings = [2, 3, 4, 5, 6, 'string', { object: 'something' }];
+
+const yeOldeObject = {
+    one: 'string',
+    two: 1,
+    three: ['some', 'demo', 'array'],
+    four: {
+        looks: 'nice'
+    }
+};
+
 function mean(array, cb) {
     if (cb) {
         array = array.map(cb);
