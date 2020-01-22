@@ -9,10 +9,30 @@ For women who love women (& code) and people who love purple!
 There are many purple themes, which I found to be lacking in contrast
 and not optimised for front-end or JavaScript stacks, so here is what I came up with.
 
-![Screen Shot](https://i.imgur.com/pBJaW5J.png)
-![Screen Shot](https://i.imgur.com/8tJdIkH.png)
-![Screen Shot](https://i.imgur.com/Nr4mVip.png)
-![Screen Shot](https://i.imgur.com/uioiPIq.png)
+HTML
+![HTML](https://i.imgur.com/GC9Kavp.png)
+
+React
+![React](https://i.imgur.com/RttuBPX.png)
+
+Vue
+![PHP](https://i.imgur.com/gh6Pf8a.png)
+
+JavaScript
+![JavaScript](https://i.imgur.com/PXnTNur.png)
+
+JSON
+![JSON](https://i.imgur.com/zH6x4Tg.png)
+
+PHP
+![PHP](https://i.imgur.com/HXKB6bC.png)
+
+Python
+![PHP](https://i.imgur.com/iiIUSOC.png)
+
+
+
+
 
 # Installation
 1. Open Extensions sidebar panel in VS Code. View → Extensions
