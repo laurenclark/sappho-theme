@@ -39,3 +39,10 @@
 -   Fix bug where some html attributes got the wrong color
 -   Update js demo
 -   TODO: Update screenshots
+
+
+# [V.1.3.3]
+
+- Update demos
+- Update all the screenshots
+- Add new screenshots for PHP, Python, JSON
